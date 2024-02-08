@@ -1,0 +1,5 @@
+C:\temp\UnzipFiles.exe
+C:\temp\UnzipFiles.dll
+C:\temp\UnzipFiles.deps.json
+C:\temp\UnzipFiles.runtimeconfig.json
+C:\temp\UnzipFiles.pdb

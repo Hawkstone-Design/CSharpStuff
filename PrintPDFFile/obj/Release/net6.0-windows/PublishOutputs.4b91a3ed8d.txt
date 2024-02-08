@@ -1,0 +1,6 @@
+C:\temp\PrintPDF\PrintPDFFile.exe
+C:\temp\PrintPDF\PrintPDFFile.dll
+C:\temp\PrintPDF\PrintPDFFile.deps.json
+C:\temp\PrintPDF\PrintPDFFile.runtimeconfig.json
+C:\temp\PrintPDF\PrintPDFFile.pdb
+C:\temp\PrintPDF\Spire.Pdf.dll

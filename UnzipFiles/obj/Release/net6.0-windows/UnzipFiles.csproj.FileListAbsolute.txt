@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\UnzipFiles\bin\Release\net6.0-windows\UnzipFiles.exe
+C:\Users\Mark\source\repos\UnzipFiles\bin\Release\net6.0-windows\UnzipFiles.deps.json
+C:\Users\Mark\source\repos\UnzipFiles\bin\Release\net6.0-windows\UnzipFiles.runtimeconfig.json
+C:\Users\Mark\source\repos\UnzipFiles\bin\Release\net6.0-windows\UnzipFiles.dll
+C:\Users\Mark\source\repos\UnzipFiles\bin\Release\net6.0-windows\UnzipFiles.pdb
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.Form1.resources
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.AssemblyInfo.cs
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.dll
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\refint\UnzipFiles.dll
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.pdb
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\UnzipFiles.genruntimeconfig.cache
+C:\Users\Mark\source\repos\UnzipFiles\obj\Release\net6.0-windows\ref\UnzipFiles.dll

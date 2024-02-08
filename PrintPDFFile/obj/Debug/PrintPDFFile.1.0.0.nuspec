@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PrintPDFFile</id>
+    <version>1.0.0</version>
+    <authors>PrintPDFFile</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FreeSpire.PDF" version="8.6.0" exclude="Build,Analyzers" />
+        <dependency id="PDFFilePrint" version="1.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/pdfium.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mark\source\repos\PrintPDFFile\bin\Debug\net6.0-windows\PrintPDFFile.runtimeconfig.json" target="lib\net6.0-windows7.0\PrintPDFFile.runtimeconfig.json" />
+    <file src="C:\Users\Mark\source\repos\PrintPDFFile\bin\Debug\net6.0-windows\PrintPDFFile.dll" target="lib\net6.0-windows7.0\PrintPDFFile.dll" />
+    <file src="C:\Users\Mark\.nuget\packages\pdfiumviewer.native.x86_64.v8-xfa\2018.4.8.256\Build\x64\pdfium.dll" target="content\pdfium.dll" />
+    <file src="C:\Users\Mark\.nuget\packages\pdfiumviewer.native.x86_64.v8-xfa\2018.4.8.256\Build\x64\pdfium.dll" target="contentFiles\any\net6.0-windows7.0\pdfium.dll" />
+  </files>
+</package>
